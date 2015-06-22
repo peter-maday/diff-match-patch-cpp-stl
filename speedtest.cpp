@@ -7,6 +7,7 @@
 #include <string>
 #include "diff_match_patch.h"
 
+
 using namespace std;
 
 wstring readFile(const char *filename) {
